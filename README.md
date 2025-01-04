@@ -35,11 +35,6 @@ Skeleton Loading<a href="https://github.com/dvtng/react-loading-skeleton">
   <br />
 </p>
 
-<h3><ul><b>Project Demo</b></ul></h3>
-
-<a href="https://google-shopping.vercel.app/" target="blank"><img align="center" src="https://google-shopping.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.a5549e45.png&w=256&q=75" alt="logo" height="85" width="250" /></a>
-
-[Demo Video](https://www.youtube.com/watch?v=L9NYGsUa5Gc)
 
 <h2><ul><b>Features</b></ul></h2>
 
