@@ -34,15 +34,6 @@ function Header() {
 
   return (
     <header className="flex flex-col items-center md:flex-row md:items-start md:space-x-6 px-2 pt-10 pb-5 md:p-10 md:pb-5">
-      <Link href="/">
-        <Image
-          src="/Logo.png"
-          alt="Google Shopping Logo"
-          width={150}
-          height={150}
-          className="object-contain mr-10"
-        />
-      </Link>
 
       <div className="w-full md:max-w-2xl">
         {/* Form  */}
