@@ -1,38 +1,12 @@
-<p align="center">
-  <br />
-  <img width="200" src="./public/Logo.png" alt="Google Logo">
-  <br />
-</p>
+
 
  <p svg align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=3000&color=2FA4D7&center=true&vCenter=true&width=375&lines=Google+Shopping+Clone+in+Next.js+13.4" alt=typing>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=3000&color=2FA4D7&center=true&vCenter=true&width=375&lines=Price+Tracker+in+Next.js+13.4" alt=typing>
  </p>
 
 <p align="center">
-  This is a clone of the Google shopping app created in Next.js with Tailwind CSS & Typescript. It uses OxyLabs Ecommerce Scrapper. It is built with Tremor Libraries & uses React Skeleton Loading while utilizing Next.js Server Caching
-  <br />
-  <br />
-  <a href="https://github.com/vercel/next.js">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge">
-  </a>
-  &nbsp;
-  <a href="https://github.com/microsoft/TypeScript">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge">
-  </a>
-  &nbsp;
-  <a href="https://github.com/tailwindlabs/tailwindcss">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind badge">
-  </a>
-    &nbsp;
-Tremor<a href="https://github.com/tremorlabs/tremor">
-<img src="https://badge.fury.io/gh/tremorlabs%2Ftremor.svg" alt="Tremor badge">
-  </a>
-    &nbsp;
-Skeleton Loading<a href="https://github.com/dvtng/react-loading-skeleton">
-<img src="https://badge.fury.io/gh/dvtng%2Freact-loading-skeleton.svg" alt="Loading Skeleton badge">
-  </a>
-  <br />
-  <br />
+  This is a website created in Next.js with Tailwind CSS & Typescript. It uses OxyLabs Ecommerce Scrapper. It is built with Tremor Libraries & uses React Skeleton Loading while utilizing Next.js Server Caching
+ 
 </p>
 
 
@@ -51,7 +25,7 @@ Skeleton Loading<a href="https://github.com/dvtng/react-loading-skeleton">
 
 <h3><ul><b>Project State</b></ul></h3>
 
-This project is completed. It is deployed to [Vercel Platform](https://vercel.com/) and uses a 7-Day free trial of OxyLabs E-Commerce Scraper API that ends on December 27th, 2023 If you wish to demo this project after this date you must make a request. This is reserved for serious inquiries of employment or contracted services. The hosting on Vercel uses the free hobby tier which has a 10 second timeout on all server functions. The scrapping can take longer than this limit and can result in the triggering of this time out from Vercel.
+This project is completed. It is deployed to [Vercel Platform](https://vercel.com/) and uses a 7-Day free trial of OxyLabs E-Commerce Scraper API. If you wish to demo this project after this date you must make a request. This is reserved for serious inquiries of employment or contracted services. The hosting on Vercel uses the free hobby tier which has a 10 second timeout on all server functions. The scrapping can take longer than this limit and can result in the triggering of this time out from Vercel.
 <br>
 <h3><ul><b>How to use</b></ul></h3>
 
@@ -91,8 +65,3 @@ Deploy to Vercel
 App is ready for testing in both local dev and production enviroments 
 **Remember the 10 second time out with Vercel hobby account tier the $20 per month Pro tier will remedy this.
 
-Special thanks to Sonny Sangha AKA Papa React an amazing tutor & invaluable resource to the developer community
-
-<h4><ul><b>Build this project yourself</b></ul></h4>
-
-[Build Tutorial by Papa React](https://www.youtube.com/watch?v=-8VCUUBHBKc&t=2s)
