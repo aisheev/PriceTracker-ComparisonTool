@@ -13,7 +13,7 @@
     "@tremor/react": "^3.12.0",
     "@types/react": "18.2.45",
     "@types/react-dom": "18.2.17",
-    "autoprefixer": "10.4.16",
+    "autoprefixer": "10.4.21",
     "eslint": "8.55.0",
     "eslint-config-next": "14.0.4",
     "next": "14.0.4",
