@@ -35,11 +35,7 @@ Skeleton Loading<a href="https://github.com/dvtng/react-loading-skeleton">
   <br />
 </p>
 
-<h3><ul><b>Project Demo</b></ul></h3>
 
-<a href="https://google-shopping.vercel.app/" target="blank"><img align="center" src="https://google-shopping.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.a5549e45.png&w=256&q=75" alt="logo" height="85" width="250" /></a>
-
-[Demo Video](https://www.youtube.com/watch?v=L9NYGsUa5Gc)
 
 <h2><ul><b>Features</b></ul></h2>
 
@@ -56,7 +52,7 @@ Skeleton Loading<a href="https://github.com/dvtng/react-loading-skeleton">
 
 <h3><ul><b>Project State</b></ul></h3>
 
-This project is completed. It is deployed to [Vercel Platform](https://vercel.com/) and uses a 7-Day free trial of OxyLabs E-Commerce Scraper API that ends on December 27th, 2023 If you wish to demo this project after this date you must make a request. This is reserved for serious inquiries of employment or contracted services. The hosting on Vercel uses the free hobby tier which has a 10 second timeout on all server functions. The scrapping can take longer than this limit and can result in the triggering of this time out from Vercel.
+This project is completed. It is deployed to [Vercel Platform](https://vercel.com/) and uses a 7-Day free trial of OxyLabs E-Commerce Scraper API. If you wish to demo this project after this date you must make a request. This is reserved for serious inquiries of employment or contracted services. The hosting on Vercel uses the free hobby tier which has a 10 second timeout on all server functions. The scrapping can take longer than this limit and can result in the triggering of this time out from Vercel.
 <br>
 <h3><ul><b>How to use</b></ul></h3>
 
@@ -96,8 +92,4 @@ Deploy to Vercel
 App is ready for testing in both local dev and production enviroments 
 **Remember the 10 second time out with Vercel hobby account tier the $20 per month Pro tier will remedy this.
 
-Special thanks to Sonny Sangha AKA Papa React an amazing tutor & invaluable resource to the developer community
 
-<h4><ul><b>Build this project yourself</b></ul></h4>
-
-[Build Tutorial by Papa React](https://www.youtube.com/watch?v=-8VCUUBHBKc&t=2s)
